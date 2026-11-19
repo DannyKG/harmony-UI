@@ -1,6 +1,6 @@
 {
   "app": {
-    "bundleName": "com.omni.ui.component",
+    "bundleName": "com.kd.ui.component",
     "vendor": "example",
     "versionCode": 1000000,
     "versionName": "1.0.1",

@@ -8,6 +8,4 @@
 - **许可证**: Apache License 2.0（见 `LICENSE`）
 - **官方文档**: https://wuba.github.io/omni-ui/
 
-Omni-UI 由 58 安居客-房产无线团队开源，面向鸿蒙 ArkUI，包含视图、表单、操作反馈、导航、图表等 25+ 复合组件。
-
-同步目的：在独立仓库 `DannyKG/harmony-UI` 中保留一份可用的鸿蒙基础组件库源码，便于学习、二次封装与二次开发。
+原项目 Omni-UI 由 58 安居客-房产无线团队开源。本仓库已将项目中的 `omni` / `Omni` 前缀统一替换为 `kd` / `Kd`（如模块 `kd_component`、组件 `KdToast`、包名 `@wuba58/kd-ui` 等），便于二次封装与品牌定制。

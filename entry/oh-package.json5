@@ -6,7 +6,7 @@
   "author": "",
   "license": "",
   "dependencies": {
-    "@omni-ui/omni_component": "file:../omni_component"
+    "@kd-ui/kd_component": "file:../kd_component"
   }
 }
 

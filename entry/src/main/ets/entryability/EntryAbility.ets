@@ -2,7 +2,7 @@ import { AbilityConstant, UIAbility, Want } from '@kit.AbilityKit';
 import { hilog } from '@kit.PerformanceAnalysisKit';
 import { window } from '@kit.ArkUI';
 import { BusinessError } from '@kit.BasicServicesKit';
-import { OmniComponent } from '@omni-ui/omni_component';
+import { KdComponent } from '@kd-ui/kd_component';
 
 export default class EntryAbility extends UIAbility {
   onCreate(want: Want, launchParam: AbilityConstant.LaunchParam): void {
@@ -23,7 +23,7 @@ export default class EntryAbility extends UIAbility {
         return
       }
       //初始化框架
-      OmniComponent.init(data)
+      KdComponent.init(data)
       console.info('Succeeded in obtaining the main window. Data: ' + JSON.stringify(data));
     })
     windowStage.loadContent('pages/Index', (err) => {

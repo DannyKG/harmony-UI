@@ -1,0 +1,14 @@
+{
+  "module": {
+    "name": "kd_component",
+    "type": "har",
+    "deviceTypes": [
+      "default"
+    ],
+    requestPermissions: [
+      {
+        "name": "ohos.permission.INTERNET"
+      }
+    ]
+  }
+}

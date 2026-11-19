@@ -7,7 +7,7 @@ export const CATEGORY_DATA: CategoryItem[] = [
     components: [
       {
         title: "样式设置",
-        url: "OmniThemeDemoPage"
+        url: "KdThemeDemoPage"
       }
     ]
   },
@@ -17,47 +17,47 @@ export const CATEGORY_DATA: CategoryItem[] = [
     components: [
       {
         title: "标签Tag",
-        url: "OmniTagEntryPage"
+        url: "KdTagEntryPage"
       },
       {
         title: "富文本RichText",
-        url: 'OmniRichTextExamplePage'
+        url: 'KdRichTextExamplePage'
       },
       {
         title: "图片浏览Gallery",
-        url: 'OmniGalleryExamplePage'
+        url: 'KdGalleryExamplePage'
       },
       {
         title: "图片概览Summary",
-        url: 'OmniSummaryExamplePage'
+        url: 'KdSummaryExamplePage'
       },
       {
         title: "下拉刷新PullToRefresh",
-        url: 'OmniPullableExamplePage'
+        url: 'KdPullableExamplePage'
       },
       {
         title: "步骤条StepBar",
-        url: 'OmniStepLineExamplePage'
+        url: 'KdStepLineExamplePage'
       },
       {
         title: "筛选FilterBar",
-        url: 'OmniFilterBarExampleEntryPage'
+        url: 'KdFilterBarExampleEntryPage'
       },
       {
         title: "日历Calendar",
-        url: 'OmniCalendarExamplePage'
+        url: 'KdCalendarExamplePage'
       },
       {
         title: "引导Guide",
-        url: 'OmniGuideExamplePage'
+        url: 'KdGuideExamplePage'
       },
       {
         title: "可折叠文本ExpandableText",
-        url: 'OmniExpandableTextEntryPage'
+        url: 'KdExpandableTextEntryPage'
       },
       {
         title: "自动换行布局AutoLineGrid",
-        url: 'OmniAutoLineGridEntryPage'
+        url: 'KdAutoLineGridEntryPage'
       }
     ]
   },
@@ -67,15 +67,15 @@ export const CATEGORY_DATA: CategoryItem[] = [
     components: [
       {
         title: "单选/多选选择器DataPicker",
-        url: 'OmniDataPickerEntryPage'
+        url: 'KdDataPickerEntryPage'
       },
       {
         title: "图片选择ImagePicker",
-        url: 'OmniImagePickerExamplePage'
+        url: 'KdImagePickerExamplePage'
       },
       {
         title: "搜索框SearchBar",
-        url: 'OmniSearchExamplePage'
+        url: 'KdSearchExamplePage'
       }
     ]
   },
@@ -85,15 +85,15 @@ export const CATEGORY_DATA: CategoryItem[] = [
     components: [
       {
         title: "吐司Toast",
-        url: 'OmniToastEntryPage'
+        url: 'KdToastEntryPage'
       },
       {
         title: "加载框Loading",
-        url: 'OmniLoadingEntryPage'
+        url: 'KdLoadingEntryPage'
       },
       {
         title: "对话框Dialog",
-        url: 'OmniDialogEntryPage'
+        url: 'KdDialogEntryPage'
       }
     ]
   },
@@ -103,19 +103,19 @@ export const CATEGORY_DATA: CategoryItem[] = [
     components: [
       {
         title: "导航栏NavigationBar",
-        url: 'OmniNavigationBarPageExample'
+        url: 'KdNavigationBarPageExample'
       },
       {
         title: "选项卡Tabs",
-        url: "OmniTabExamplePage"
+        url: "KdTabExamplePage"
       },
       {
         title: "底部导航BottomBar",
-        url: "OmniBottomBarExamplePage"
+        url: "KdBottomBarExamplePage"
       },
       {
         title: "锚点Anchor",
-        url: 'OmniAnchorExamplePage'
+        url: 'KdAnchorExamplePage'
       },
     ]
   },
@@ -125,23 +125,23 @@ export const CATEGORY_DATA: CategoryItem[] = [
     components: [
       {
         title: "柱状图ProgressBar",
-        url: "OmniProgressBarChartExamplePage"
+        url: "KdProgressBarChartExamplePage"
       },
       {
         title: "折线图BrokenLine",
-        url: "OmniLineChartExamplePage"
+        url: "KdLineChartExamplePage"
       },
       {
         title: "雷达图Radar",
-        url: "OmniRadarChartExamplePage"
+        url: "KdRadarChartExamplePage"
       },
       {
         title: "环状图Doughnut",
-        url: "OmniPieChartExamplePage"
+        url: "KdPieChartExamplePage"
       },
       {
         title: "漏斗图Funnel",
-        url: 'OmniFunnelChartExamplePage'
+        url: 'KdFunnelChartExamplePage'
       }
     ]
   }

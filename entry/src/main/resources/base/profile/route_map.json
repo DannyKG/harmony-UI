@@ -1,289 +1,289 @@
 {
   "routerMap": [
     {
-      "name": "OmniLoadingEntryPage",
-      "pageSourceFile": "src/main/ets/pages/loading/OmniLoadingEntryPage.ets",
-      "buildFunction": "OmniLoadingEntryPageBuilder",
+      "name": "KdLoadingEntryPage",
+      "pageSourceFile": "src/main/ets/pages/loading/KdLoadingEntryPage.ets",
+      "buildFunction": "KdLoadingEntryPageBuilder",
       "data": {
         "description": "this is PageOne"
       }
     },
     {
-      "name": "OmniTagEntryPage",
-      "pageSourceFile": "src/main/ets/pages/tags/OmniTagEntryPage.ets",
-      "buildFunction": "OmniTagEntryPageBuilder",
+      "name": "KdTagEntryPage",
+      "pageSourceFile": "src/main/ets/pages/tags/KdTagEntryPage.ets",
+      "buildFunction": "KdTagEntryPageBuilder",
       "data": {
         "description": "this is a TagWidget Demo"
       }
     },
     {
-      "name": "OmniSearchExamplePage",
-      "pageSourceFile": "src/main/ets/pages/search/OmniSearchExamplePage.ets",
-      "buildFunction": "OmniSearchExamplePageBuilder",
+      "name": "KdSearchExamplePage",
+      "pageSourceFile": "src/main/ets/pages/search/KdSearchExamplePage.ets",
+      "buildFunction": "KdSearchExamplePageBuilder",
       "data": {
         "description": "this is a Search Widget Demo"
       }
     },
     {
-      "name": "OmniAnchorExamplePage",
-      "pageSourceFile": "src/main/ets/pages/anchor/OmniAnchorExamplePage.ets",
-      "buildFunction": "OmniAnchorExamplePageBuilder",
+      "name": "KdAnchorExamplePage",
+      "pageSourceFile": "src/main/ets/pages/anchor/KdAnchorExamplePage.ets",
+      "buildFunction": "KdAnchorExamplePageBuilder",
       "data": {
         "description": "this is a Anchor Widget Demo"
       }
     },
     {
-      "name": "OmniGalleryExamplePage",
-      "pageSourceFile": "src/main/ets/pages/gallery/OmniGalleryExamplePage.ets",
-      "buildFunction": "OmniGalleryExamplePageBuilder",
+      "name": "KdGalleryExamplePage",
+      "pageSourceFile": "src/main/ets/pages/gallery/KdGalleryExamplePage.ets",
+      "buildFunction": "KdGalleryExamplePageBuilder",
       "data": {
         "description": "this is a Gallery Widget Demo"
       }
     },
     {
-      "name": "OmniFunnelChartExamplePage",
-      "pageSourceFile": "src/main/ets/pages/charts/OmniFunnelChartExamplePage.ets",
-      "buildFunction": "OmniFunnelChartExamplePageBuilder",
+      "name": "KdFunnelChartExamplePage",
+      "pageSourceFile": "src/main/ets/pages/charts/KdFunnelChartExamplePage.ets",
+      "buildFunction": "KdFunnelChartExamplePageBuilder",
       "data": {
         "description": "this is a Funnel Widget Demo"
       }
     },
     {
-      "name": "OmniSummaryExamplePage",
-      "pageSourceFile": "src/main/ets/pages/gallery/OmniSummaryExamplePage.ets",
-      "buildFunction": "OmniSummaryExamplePageBuilder",
+      "name": "KdSummaryExamplePage",
+      "pageSourceFile": "src/main/ets/pages/gallery/KdSummaryExamplePage.ets",
+      "buildFunction": "KdSummaryExamplePageBuilder",
       "data": {
         "description": "this is a Summary Widget Demo"
       }
     },
     {
-      "name": "OmniToastEntryPage",
-      "pageSourceFile": "src/main/ets/pages/toast/OmniToastEntryPage.ets",
-      "buildFunction": "OmniToastEntryPageBuilder",
+      "name": "KdToastEntryPage",
+      "pageSourceFile": "src/main/ets/pages/toast/KdToastEntryPage.ets",
+      "buildFunction": "KdToastEntryPageBuilder",
       "data": {
         "description": "this is a Toast Demo"
       }
     },
     {
-      "name": "OmniCalendarExamplePage",
-      "pageSourceFile": "src/main/ets/pages/calendar/OmniCalendarExamplePage.ets",
-      "buildFunction": "OmniCalendarExamplePageBuilder",
+      "name": "KdCalendarExamplePage",
+      "pageSourceFile": "src/main/ets/pages/calendar/KdCalendarExamplePage.ets",
+      "buildFunction": "KdCalendarExamplePageBuilder",
       "data": {
         "description": "this is a Calendar Widget Demo"
       }
     },
     {
-      "name": "OmniGuideExamplePage",
-      "pageSourceFile": "src/main/ets/pages/guide/OmniGuideExampleIndex.ets",
-      "buildFunction": "OmniGuideExamplePageBuilder",
+      "name": "KdGuideExamplePage",
+      "pageSourceFile": "src/main/ets/pages/guide/KdGuideExampleIndex.ets",
+      "buildFunction": "KdGuideExamplePageBuilder",
       "data": {
         "description": "this is a Guide Widget Demo"
       }
     },
     {
-      "name": "OmniGuideMultiPageExample",
-      "pageSourceFile": "src/main/ets/pages/guide/OmniGuideMultiPageExample.ets",
-      "buildFunction": "OmniGuideMultiPageExamplePageBuilder",
+      "name": "KdGuideMultiPageExample",
+      "pageSourceFile": "src/main/ets/pages/guide/KdGuideMultiPageExample.ets",
+      "buildFunction": "KdGuideMultiPageExamplePageBuilder",
       "data": {
         "description": "this is a Guide Widget Demo"
       }
     },
     {
-      "name": "OmniImagePickerExamplePage",
-      "pageSourceFile": "src/main/ets/pages/imagepicker/OmniImagePickerExamplePage.ets",
-      "buildFunction": "OmniImagePickerExamplePageBuilder",
+      "name": "KdImagePickerExamplePage",
+      "pageSourceFile": "src/main/ets/pages/imagepicker/KdImagePickerExamplePage.ets",
+      "buildFunction": "KdImagePickerExamplePageBuilder",
       "data": {
         "description": "this is a ImagePicker Widget Demo"
       }
     },
     {
-      "name": "OmniImagePickerSelectExamplePage",
-      "pageSourceFile": "src/main/ets/pages/imagepicker/OmniImagePickerSelectExamplePage.ets",
-      "buildFunction": "OmniImagePickerSelectExamplePageBuilder",
+      "name": "KdImagePickerSelectExamplePage",
+      "pageSourceFile": "src/main/ets/pages/imagepicker/KdImagePickerSelectExamplePage.ets",
+      "buildFunction": "KdImagePickerSelectExamplePageBuilder",
       "data": {
         "description": "this is a ImagePicker select Widget Demo"
       }
     },
     {
-      "name": "OmniImageAlbumPickerPage",
-      "pageSourceFile": "src/main/ets/pages/imagepicker/OmniImageAlbumPickerPage.ets",
-      "buildFunction": "OmniImageAlbumPickerPageBuilder",
+      "name": "KdImageAlbumPickerPage",
+      "pageSourceFile": "src/main/ets/pages/imagepicker/KdImageAlbumPickerPage.ets",
+      "buildFunction": "KdImageAlbumPickerPageBuilder",
       "data": {
         "description": "this is a Album select Widget Demo"
       }
     },
     {
-      "name": "OmniPieChartExamplePage",
-      "pageSourceFile": "src/main/ets/pages/charts/OmniPieChartExamplePage.ets",
-      "buildFunction": "OmniPieChartExamplePageBuilder",
+      "name": "KdPieChartExamplePage",
+      "pageSourceFile": "src/main/ets/pages/charts/KdPieChartExamplePage.ets",
+      "buildFunction": "KdPieChartExamplePageBuilder",
       "data": {
         "description": "this is a Pie Chart Widget Demo"
       }
     },
     {
-      "name": "OmniRadarChartExamplePage",
-      "pageSourceFile": "src/main/ets/pages/charts/OmniRadarChartExamplePage.ets",
-      "buildFunction": "OmniRadarChartExamplePageBuilder",
+      "name": "KdRadarChartExamplePage",
+      "pageSourceFile": "src/main/ets/pages/charts/KdRadarChartExamplePage.ets",
+      "buildFunction": "KdRadarChartExamplePageBuilder",
       "data": {
         "description": "this is a Radar Chart Widget Demo"
       }
     },
     {
-      "name": "OmniLineChartExamplePage",
-      "pageSourceFile": "src/main/ets/pages/charts/OmniLineChartExamplePage.ets",
-      "buildFunction": "OmniLineChartExamplePageBuilder",
+      "name": "KdLineChartExamplePage",
+      "pageSourceFile": "src/main/ets/pages/charts/KdLineChartExamplePage.ets",
+      "buildFunction": "KdLineChartExamplePageBuilder",
       "data": {
         "description": "this is a Line Chart Widget Demo"
       }
     },
     {
-      "name": "OmniStepLineExamplePage",
-      "pageSourceFile": "src/main/ets/pages/step/OmniStepLineExample.ets",
-      "buildFunction": "OmniStepLineExamplePageBuilder",
+      "name": "KdStepLineExamplePage",
+      "pageSourceFile": "src/main/ets/pages/step/KdStepLineExample.ets",
+      "buildFunction": "KdStepLineExamplePageBuilder",
       "data": {
         "description": "this is a StepLine Widget Demo"
       }
     },
     {
-      "name": "OmniNavigationBarPageExample",
-      "pageSourceFile": "src/main/ets/pages/navigationbar/OmniNavigationBarExamplePage.ets",
-      "buildFunction": "OmniNavigationBarExamplePageBuilder",
+      "name": "KdNavigationBarPageExample",
+      "pageSourceFile": "src/main/ets/pages/navigationbar/KdNavigationBarExamplePage.ets",
+      "buildFunction": "KdNavigationBarExamplePageBuilder",
       "data": {
         "description": "this is a NavigationBar Widget Demo"
       }
     },
     {
-      "name": "OmniProgressBarChartExamplePage",
-      "pageSourceFile": "src/main/ets/pages/charts/OmniProgressBarChartExamplePage.ets",
-      "buildFunction": "OmniProgressBarChartExamplePageBuilder",
+      "name": "KdProgressBarChartExamplePage",
+      "pageSourceFile": "src/main/ets/pages/charts/KdProgressBarChartExamplePage.ets",
+      "buildFunction": "KdProgressBarChartExamplePageBuilder",
       "data": {
         "description": "this is a ProgressBarChart Widget Demo"
       }
     },
     {
-      "name": "OmniPullableExamplePage",
-      "pageSourceFile": "src/main/ets/pages/pullable/OmniPullableExamplePage.ets",
-      "buildFunction": "OmniPullableExamplePageBuilder",
+      "name": "KdPullableExamplePage",
+      "pageSourceFile": "src/main/ets/pages/pullable/KdPullableExamplePage.ets",
+      "buildFunction": "KdPullableExamplePageBuilder",
       "data": {
         "description": "this is a Pullable Widget Demo"
       }
     },
     {
-      "name": "OmniDataPickerEntryPage",
-      "pageSourceFile": "src/main/ets/pages/picker/OmniDataPickerEntryPage.ets",
-      "buildFunction": "OmniDataPickerEntryPageBuilder",
+      "name": "KdDataPickerEntryPage",
+      "pageSourceFile": "src/main/ets/pages/picker/KdDataPickerEntryPage.ets",
+      "buildFunction": "KdDataPickerEntryPageBuilder",
       "data": {
         "description" : "this is a DataPicker Demo"
       }
     },
     {
-      "name": "OmniRichTextExamplePage",
-      "pageSourceFile": "src/main/ets/pages/richtext/OmniRichTextExamplePage.ets",
-      "buildFunction": "OmniRichTextExamplePageBuilder",
+      "name": "KdRichTextExamplePage",
+      "pageSourceFile": "src/main/ets/pages/richtext/KdRichTextExamplePage.ets",
+      "buildFunction": "KdRichTextExamplePageBuilder",
       "data": {
         "description" : "this is a RichText Demo"
       }
     },
     {
-      "name": "OmniFilterBarExampleEntryPage",
-      "pageSourceFile": "src/main/ets/pages/filterbar/OmniFilterBarExampleEntryPage.ets",
-      "buildFunction": "OmniFilterBarExampleEntryPageBuilder",
+      "name": "KdFilterBarExampleEntryPage",
+      "pageSourceFile": "src/main/ets/pages/filterbar/KdFilterBarExampleEntryPage.ets",
+      "buildFunction": "KdFilterBarExampleEntryPageBuilder",
       "data": {
         "description": "this is a FilterBar Widget Demo"
       }
     },
     {
-      "name": "OmniFilterBarMultiListExamplePage",
-      "pageSourceFile": "src/main/ets/pages/filterbar/OmniFilterBarMultiListExamplePage.ets",
-      "buildFunction": "OmniFilterBarMultiListExamplePageBuilder",
+      "name": "KdFilterBarMultiListExamplePage",
+      "pageSourceFile": "src/main/ets/pages/filterbar/KdFilterBarMultiListExamplePage.ets",
+      "buildFunction": "KdFilterBarMultiListExamplePageBuilder",
       "data": {
         "description": "this is a FilterBar Widget Demo"
       }
     },
     {
-      "name": "OmniFilterBarMultiGridExamplePage",
-      "pageSourceFile": "src/main/ets/pages/filterbar/OmniFilterBarMultiGridExamplePage.ets",
-      "buildFunction": "OmniFilterBarMultiGridExamplePageBuilder",
+      "name": "KdFilterBarMultiGridExamplePage",
+      "pageSourceFile": "src/main/ets/pages/filterbar/KdFilterBarMultiGridExamplePage.ets",
+      "buildFunction": "KdFilterBarMultiGridExamplePageBuilder",
       "data": {
         "description": "this is a FilterBar Widget Demo"
       }
     },
     {
-      "name": "OmniFilterBarMoreExamplePage",
-      "pageSourceFile": "src/main/ets/pages/filterbar/OmniFilterBarMoreExamplePage.ets",
-      "buildFunction": "OmniFilterBarMoreExamplePageBuilder",
+      "name": "KdFilterBarMoreExamplePage",
+      "pageSourceFile": "src/main/ets/pages/filterbar/KdFilterBarMoreExamplePage.ets",
+      "buildFunction": "KdFilterBarMoreExamplePageBuilder",
       "data": {
         "description": "this is a FilterBar Widget Demo"
       }
     },
     {
-      "name": "OmniFilterBarCustomExamplePage",
-      "pageSourceFile": "src/main/ets/pages/filterbar/OmniFilterBarCustomExamplePage.ets",
-      "buildFunction": "OmniFilterBarCustomExamplePageBuilder",
+      "name": "KdFilterBarCustomExamplePage",
+      "pageSourceFile": "src/main/ets/pages/filterbar/KdFilterBarCustomExamplePage.ets",
+      "buildFunction": "KdFilterBarCustomExamplePageBuilder",
       "data": {
         "description": "this is a FilterBar Widget Demo"
       }
     },
     {
-      "name": "OmniFilterBarStyleCustomExamplePage",
-      "pageSourceFile": "src/main/ets/pages/filterbar/OmniFilterBarStyleCustomExamplePage.ets",
-      "buildFunction": "OmniFilterBarStyleCustomExamplePageBuilder",
+      "name": "KdFilterBarStyleCustomExamplePage",
+      "pageSourceFile": "src/main/ets/pages/filterbar/KdFilterBarStyleCustomExamplePage.ets",
+      "buildFunction": "KdFilterBarStyleCustomExamplePageBuilder",
       "data": {
         "description": "this is a FilterBar Widget Demo"
       }
     },
     {
-      "name": "OmniDialogEntryPage",
-      "pageSourceFile": "src/main/ets/pages/dialog/OmniDialogEntryPage.ets",
-      "buildFunction": "OmniDialogEntryPageBuilder",
+      "name": "KdDialogEntryPage",
+      "pageSourceFile": "src/main/ets/pages/dialog/KdDialogEntryPage.ets",
+      "buildFunction": "KdDialogEntryPageBuilder",
       "data": {
         "description" : "this is a Dialog Demo"
       }
     },
     {
-      "name": "OmniExpandableTextEntryPage",
-      "pageSourceFile": "src/main/ets/pages/expandabletext/OmniExpandableTextEntryPage.ets",
-      "buildFunction": "OmniExpandableTextEntryPageBuilder",
+      "name": "KdExpandableTextEntryPage",
+      "pageSourceFile": "src/main/ets/pages/expandabletext/KdExpandableTextEntryPage.ets",
+      "buildFunction": "KdExpandableTextEntryPageBuilder",
       "data": {
         "description" : "this is a ExpandableText Demo"
       }
     },
     {
-      "name": "OmniAutoLineGridEntryPage",
-      "pageSourceFile": "src/main/ets/pages/autolinegrid/OmniAutoLineGridEntryPage.ets",
-      "buildFunction": "OmniAutoLineGridEntryPageBuilder",
+      "name": "KdAutoLineGridEntryPage",
+      "pageSourceFile": "src/main/ets/pages/autolinegrid/KdAutoLineGridEntryPage.ets",
+      "buildFunction": "KdAutoLineGridEntryPageBuilder",
       "data": {
-        "description" : "this is a OmniAutoLineGrid Demo"
+        "description" : "this is a KdAutoLineGrid Demo"
       }
     },
     {
-      "name": "OmniFilterBarMenuCustomExamplePage",
-      "pageSourceFile": "src/main/ets/pages/filterbar/OmniFilterBarMenuCustomExamplePage.ets",
-      "buildFunction": "OmniFilterBarMenuCustomExamplePageBuilder",
+      "name": "KdFilterBarMenuCustomExamplePage",
+      "pageSourceFile": "src/main/ets/pages/filterbar/KdFilterBarMenuCustomExamplePage.ets",
+      "buildFunction": "KdFilterBarMenuCustomExamplePageBuilder",
       "data": {
         "description": "this is a FilterBar Widget Demo"
       }
     },
     {
-      "name": "OmniBottomBarExamplePage",
-      "pageSourceFile": "src/main/ets/pages/bottombar/OmniBottomBarExamplePage.ets",
-      "buildFunction": "OmniBottomBarExamplePageBuilder",
+      "name": "KdBottomBarExamplePage",
+      "pageSourceFile": "src/main/ets/pages/bottombar/KdBottomBarExamplePage.ets",
+      "buildFunction": "KdBottomBarExamplePageBuilder",
       "data": {
         "description": "this is a BottomBar Demo"
       }
     },
     {
-      "name": "OmniThemeDemoPage",
-      "pageSourceFile": "src/main/ets/pages/theme/OmniThemeDemoPage.ets",
-      "buildFunction": "OmniThemeDemoPageBuilder",
+      "name": "KdThemeDemoPage",
+      "pageSourceFile": "src/main/ets/pages/theme/KdThemeDemoPage.ets",
+      "buildFunction": "KdThemeDemoPageBuilder",
       "data": {
         "description": "this is a Theme Demo"
       }
     },
     {
-      "name": "OmniTabExamplePage",
-      "pageSourceFile": "src/main/ets/pages/tabs/OmniTabExamplePage.ets",
-      "buildFunction": "OmniTabExamplePageBuilder",
+      "name": "KdTabExamplePage",
+      "pageSourceFile": "src/main/ets/pages/tabs/KdTabExamplePage.ets",
+      "buildFunction": "KdTabExamplePageBuilder",
       "data": {
         "description": "this is a Tabs Demo"
       }

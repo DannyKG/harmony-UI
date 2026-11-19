@@ -1,7 +1,7 @@
 import { CATEGORY_DATA } from '../data/CategoryData';
 import { CategoryItem } from '../data/CategoryItem';
 import { CategoryItemCard } from '../component/CategoryNavigation';
-import { OmniToast } from '@omni-ui/omni_component';
+import { KdToast } from '@kd-ui/kd_component';
 
 @Entry
 @Component
@@ -10,7 +10,7 @@ struct Index {
   private categoryItems: CategoryItem[] = CATEGORY_DATA
 
   aboutToAppear(): void {
-    OmniToast.initToast(this.getUIContext())
+    KdToast.initToast(this.getUIContext())
   }
 
   build() {
@@ -35,7 +35,7 @@ struct Index {
       .height("100%")
       .backgroundColor(0xfff1f3f5)
     }
-    .title('OmniUI')
+    .title('KdUI')
     .titleMode(NavigationTitleMode.Mini)
     .mode(NavigationMode.Auto)
   }

@@ -38,8 +38,8 @@
       ]
     },
     {
-      "name": "omni_component",
-      "srcPath": "./omni_component"
+      "name": "kd_component",
+      "srcPath": "./kd_component"
     }
   ]
 }
