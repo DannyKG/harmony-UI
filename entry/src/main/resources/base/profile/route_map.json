@@ -1,0 +1,292 @@
+{
+  "routerMap": [
+    {
+      "name": "KdLoadingEntryPage",
+      "pageSourceFile": "src/main/ets/pages/loading/KdLoadingEntryPage.ets",
+      "buildFunction": "KdLoadingEntryPageBuilder",
+      "data": {
+        "description": "this is PageOne"
+      }
+    },
+    {
+      "name": "KdTagEntryPage",
+      "pageSourceFile": "src/main/ets/pages/tags/KdTagEntryPage.ets",
+      "buildFunction": "KdTagEntryPageBuilder",
+      "data": {
+        "description": "this is a TagWidget Demo"
+      }
+    },
+    {
+      "name": "KdSearchExamplePage",
+      "pageSourceFile": "src/main/ets/pages/search/KdSearchExamplePage.ets",
+      "buildFunction": "KdSearchExamplePageBuilder",
+      "data": {
+        "description": "this is a Search Widget Demo"
+      }
+    },
+    {
+      "name": "KdAnchorExamplePage",
+      "pageSourceFile": "src/main/ets/pages/anchor/KdAnchorExamplePage.ets",
+      "buildFunction": "KdAnchorExamplePageBuilder",
+      "data": {
+        "description": "this is a Anchor Widget Demo"
+      }
+    },
+    {
+      "name": "KdGalleryExamplePage",
+      "pageSourceFile": "src/main/ets/pages/gallery/KdGalleryExamplePage.ets",
+      "buildFunction": "KdGalleryExamplePageBuilder",
+      "data": {
+        "description": "this is a Gallery Widget Demo"
+      }
+    },
+    {
+      "name": "KdFunnelChartExamplePage",
+      "pageSourceFile": "src/main/ets/pages/charts/KdFunnelChartExamplePage.ets",
+      "buildFunction": "KdFunnelChartExamplePageBuilder",
+      "data": {
+        "description": "this is a Funnel Widget Demo"
+      }
+    },
+    {
+      "name": "KdSummaryExamplePage",
+      "pageSourceFile": "src/main/ets/pages/gallery/KdSummaryExamplePage.ets",
+      "buildFunction": "KdSummaryExamplePageBuilder",
+      "data": {
+        "description": "this is a Summary Widget Demo"
+      }
+    },
+    {
+      "name": "KdToastEntryPage",
+      "pageSourceFile": "src/main/ets/pages/toast/KdToastEntryPage.ets",
+      "buildFunction": "KdToastEntryPageBuilder",
+      "data": {
+        "description": "this is a Toast Demo"
+      }
+    },
+    {
+      "name": "KdCalendarExamplePage",
+      "pageSourceFile": "src/main/ets/pages/calendar/KdCalendarExamplePage.ets",
+      "buildFunction": "KdCalendarExamplePageBuilder",
+      "data": {
+        "description": "this is a Calendar Widget Demo"
+      }
+    },
+    {
+      "name": "KdGuideExamplePage",
+      "pageSourceFile": "src/main/ets/pages/guide/KdGuideExampleIndex.ets",
+      "buildFunction": "KdGuideExamplePageBuilder",
+      "data": {
+        "description": "this is a Guide Widget Demo"
+      }
+    },
+    {
+      "name": "KdGuideMultiPageExample",
+      "pageSourceFile": "src/main/ets/pages/guide/KdGuideMultiPageExample.ets",
+      "buildFunction": "KdGuideMultiPageExamplePageBuilder",
+      "data": {
+        "description": "this is a Guide Widget Demo"
+      }
+    },
+    {
+      "name": "KdImagePickerExamplePage",
+      "pageSourceFile": "src/main/ets/pages/imagepicker/KdImagePickerExamplePage.ets",
+      "buildFunction": "KdImagePickerExamplePageBuilder",
+      "data": {
+        "description": "this is a ImagePicker Widget Demo"
+      }
+    },
+    {
+      "name": "KdImagePickerSelectExamplePage",
+      "pageSourceFile": "src/main/ets/pages/imagepicker/KdImagePickerSelectExamplePage.ets",
+      "buildFunction": "KdImagePickerSelectExamplePageBuilder",
+      "data": {
+        "description": "this is a ImagePicker select Widget Demo"
+      }
+    },
+    {
+      "name": "KdImageAlbumPickerPage",
+      "pageSourceFile": "src/main/ets/pages/imagepicker/KdImageAlbumPickerPage.ets",
+      "buildFunction": "KdImageAlbumPickerPageBuilder",
+      "data": {
+        "description": "this is a Album select Widget Demo"
+      }
+    },
+    {
+      "name": "KdPieChartExamplePage",
+      "pageSourceFile": "src/main/ets/pages/charts/KdPieChartExamplePage.ets",
+      "buildFunction": "KdPieChartExamplePageBuilder",
+      "data": {
+        "description": "this is a Pie Chart Widget Demo"
+      }
+    },
+    {
+      "name": "KdRadarChartExamplePage",
+      "pageSourceFile": "src/main/ets/pages/charts/KdRadarChartExamplePage.ets",
+      "buildFunction": "KdRadarChartExamplePageBuilder",
+      "data": {
+        "description": "this is a Radar Chart Widget Demo"
+      }
+    },
+    {
+      "name": "KdLineChartExamplePage",
+      "pageSourceFile": "src/main/ets/pages/charts/KdLineChartExamplePage.ets",
+      "buildFunction": "KdLineChartExamplePageBuilder",
+      "data": {
+        "description": "this is a Line Chart Widget Demo"
+      }
+    },
+    {
+      "name": "KdStepLineExamplePage",
+      "pageSourceFile": "src/main/ets/pages/step/KdStepLineExample.ets",
+      "buildFunction": "KdStepLineExamplePageBuilder",
+      "data": {
+        "description": "this is a StepLine Widget Demo"
+      }
+    },
+    {
+      "name": "KdNavigationBarPageExample",
+      "pageSourceFile": "src/main/ets/pages/navigationbar/KdNavigationBarExamplePage.ets",
+      "buildFunction": "KdNavigationBarExamplePageBuilder",
+      "data": {
+        "description": "this is a NavigationBar Widget Demo"
+      }
+    },
+    {
+      "name": "KdProgressBarChartExamplePage",
+      "pageSourceFile": "src/main/ets/pages/charts/KdProgressBarChartExamplePage.ets",
+      "buildFunction": "KdProgressBarChartExamplePageBuilder",
+      "data": {
+        "description": "this is a ProgressBarChart Widget Demo"
+      }
+    },
+    {
+      "name": "KdPullableExamplePage",
+      "pageSourceFile": "src/main/ets/pages/pullable/KdPullableExamplePage.ets",
+      "buildFunction": "KdPullableExamplePageBuilder",
+      "data": {
+        "description": "this is a Pullable Widget Demo"
+      }
+    },
+    {
+      "name": "KdDataPickerEntryPage",
+      "pageSourceFile": "src/main/ets/pages/picker/KdDataPickerEntryPage.ets",
+      "buildFunction": "KdDataPickerEntryPageBuilder",
+      "data": {
+        "description" : "this is a DataPicker Demo"
+      }
+    },
+    {
+      "name": "KdRichTextExamplePage",
+      "pageSourceFile": "src/main/ets/pages/richtext/KdRichTextExamplePage.ets",
+      "buildFunction": "KdRichTextExamplePageBuilder",
+      "data": {
+        "description" : "this is a RichText Demo"
+      }
+    },
+    {
+      "name": "KdFilterBarExampleEntryPage",
+      "pageSourceFile": "src/main/ets/pages/filterbar/KdFilterBarExampleEntryPage.ets",
+      "buildFunction": "KdFilterBarExampleEntryPageBuilder",
+      "data": {
+        "description": "this is a FilterBar Widget Demo"
+      }
+    },
+    {
+      "name": "KdFilterBarMultiListExamplePage",
+      "pageSourceFile": "src/main/ets/pages/filterbar/KdFilterBarMultiListExamplePage.ets",
+      "buildFunction": "KdFilterBarMultiListExamplePageBuilder",
+      "data": {
+        "description": "this is a FilterBar Widget Demo"
+      }
+    },
+    {
+      "name": "KdFilterBarMultiGridExamplePage",
+      "pageSourceFile": "src/main/ets/pages/filterbar/KdFilterBarMultiGridExamplePage.ets",
+      "buildFunction": "KdFilterBarMultiGridExamplePageBuilder",
+      "data": {
+        "description": "this is a FilterBar Widget Demo"
+      }
+    },
+    {
+      "name": "KdFilterBarMoreExamplePage",
+      "pageSourceFile": "src/main/ets/pages/filterbar/KdFilterBarMoreExamplePage.ets",
+      "buildFunction": "KdFilterBarMoreExamplePageBuilder",
+      "data": {
+        "description": "this is a FilterBar Widget Demo"
+      }
+    },
+    {
+      "name": "KdFilterBarCustomExamplePage",
+      "pageSourceFile": "src/main/ets/pages/filterbar/KdFilterBarCustomExamplePage.ets",
+      "buildFunction": "KdFilterBarCustomExamplePageBuilder",
+      "data": {
+        "description": "this is a FilterBar Widget Demo"
+      }
+    },
+    {
+      "name": "KdFilterBarStyleCustomExamplePage",
+      "pageSourceFile": "src/main/ets/pages/filterbar/KdFilterBarStyleCustomExamplePage.ets",
+      "buildFunction": "KdFilterBarStyleCustomExamplePageBuilder",
+      "data": {
+        "description": "this is a FilterBar Widget Demo"
+      }
+    },
+    {
+      "name": "KdDialogEntryPage",
+      "pageSourceFile": "src/main/ets/pages/dialog/KdDialogEntryPage.ets",
+      "buildFunction": "KdDialogEntryPageBuilder",
+      "data": {
+        "description" : "this is a Dialog Demo"
+      }
+    },
+    {
+      "name": "KdExpandableTextEntryPage",
+      "pageSourceFile": "src/main/ets/pages/expandabletext/KdExpandableTextEntryPage.ets",
+      "buildFunction": "KdExpandableTextEntryPageBuilder",
+      "data": {
+        "description" : "this is a ExpandableText Demo"
+      }
+    },
+    {
+      "name": "KdAutoLineGridEntryPage",
+      "pageSourceFile": "src/main/ets/pages/autolinegrid/KdAutoLineGridEntryPage.ets",
+      "buildFunction": "KdAutoLineGridEntryPageBuilder",
+      "data": {
+        "description" : "this is a KdAutoLineGrid Demo"
+      }
+    },
+    {
+      "name": "KdFilterBarMenuCustomExamplePage",
+      "pageSourceFile": "src/main/ets/pages/filterbar/KdFilterBarMenuCustomExamplePage.ets",
+      "buildFunction": "KdFilterBarMenuCustomExamplePageBuilder",
+      "data": {
+        "description": "this is a FilterBar Widget Demo"
+      }
+    },
+    {
+      "name": "KdBottomBarExamplePage",
+      "pageSourceFile": "src/main/ets/pages/bottombar/KdBottomBarExamplePage.ets",
+      "buildFunction": "KdBottomBarExamplePageBuilder",
+      "data": {
+        "description": "this is a BottomBar Demo"
+      }
+    },
+    {
+      "name": "KdThemeDemoPage",
+      "pageSourceFile": "src/main/ets/pages/theme/KdThemeDemoPage.ets",
+      "buildFunction": "KdThemeDemoPageBuilder",
+      "data": {
+        "description": "this is a Theme Demo"
+      }
+    },
+    {
+      "name": "KdTabExamplePage",
+      "pageSourceFile": "src/main/ets/pages/tabs/KdTabExamplePage.ets",
+      "buildFunction": "KdTabExamplePageBuilder",
+      "data": {
+        "description": "this is a Tabs Demo"
+      }
+    }
+  ]
+}
